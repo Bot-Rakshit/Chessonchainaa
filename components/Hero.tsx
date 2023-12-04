@@ -73,7 +73,7 @@ const Hero = (props: { scrollToProducts: () => void }) => {
         >
           AI Agents and Web3 Technologies
           <br />
-          <i>enabling human-centric applications.</i>
+          enabling human-centric applications.
         </Typography>
         <Button
           color="primary"
