@@ -86,7 +86,7 @@ const Hero = (props: { scrollToProducts: () => void }) => {
             mt: 4,
           }}
         >
-          Our Products
+          Our Projects
         </Button>
       </Container>
     </Box>
