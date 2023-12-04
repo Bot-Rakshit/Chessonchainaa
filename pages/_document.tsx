@@ -27,7 +27,7 @@ export default class MyDocument extends Document {
           <link rel="manifest" href="/manifest.json" />
           <meta
             property="og:title"
-            content="Polywrap - Simplifying Complexity"
+            content="Polywrap - Autonomous Intelligence"
           />
 
           <meta property="og:image" content="/polywrap-og.jpg" />
