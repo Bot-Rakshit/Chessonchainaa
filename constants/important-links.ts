@@ -1,6 +1,6 @@
 export const importantLinks = [
   {
-    name: "Products",
+    name: "Projects",
     links: [
       {
         name: "evo.ninja",

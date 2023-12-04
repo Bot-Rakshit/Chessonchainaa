@@ -14,7 +14,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Polywrap - Simplifying Complexity</title>
+        <title>Polywrap - Autonomous Intelligence</title>
       </Head>
       <main>
         <Hero scrollToProducts={() => {
